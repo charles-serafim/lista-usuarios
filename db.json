@@ -90,5 +90,26 @@
       "prefixo_dependencia": "2002",
       "uor_dependencia": "3002"
     }
+  ],
+  "funcoes": [
+    { "id": 1, "funcao": "Escriturário", "codigo_funcao": "1001" },
+    { "id": 2, "funcao": "Assessor III de TI", "codigo_funcao": "1002" },
+    { "id": 3, "funcao": "Assessor II de TI", "codigo_funcao": "1003" },
+    { "id": 4, "funcao": "Assessor I de TI", "codigo_funcao": "1004" },
+    { "id": 5, "funcao": "Gerente de Equipe", "codigo_funcao": "1005" }
+  ],
+  "dependencias": [
+    {
+      "id": 1,
+      "dependencia": "DITEC - UEC II",
+      "prefixo_dependencia": "2001",
+      "uor_dependencia": "3001"
+    },
+    {
+      "id": 2,
+      "dependencia": "DITEC - UEC I",
+      "prefixo_dependencia": "2002",
+      "uor_dependencia": "3002"
+    }
   ]
 }
