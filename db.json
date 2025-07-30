@@ -1,0 +1,94 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Ana Silva",
+      "funcao": "Escriturário",
+      "codigo_funcao": "1001",
+      "dependencia": "DITEC - UEC II",
+      "prefixo_dependencia": "2001",
+      "uor_dependencia": "3001"
+    },
+    {
+      "id": 2,
+      "nome": "Bruno Costa",
+      "funcao": "Escriturário",
+      "codigo_funcao": "1001",
+      "dependencia": "DITEC - UEC I",
+      "prefixo_dependencia": "2002",
+      "uor_dependencia": "3002"
+    },
+    {
+      "id": 3,
+      "nome": "Carlos Pereira",
+      "funcao": "Assessor III de TI",
+      "codigo_funcao": "1002",
+      "dependencia": "DITEC - UEC II",
+      "prefixo_dependencia": "2001",
+      "uor_dependencia": "3001"
+    },
+    {
+      "id": 4,
+      "nome": "Daniel Oliveira",
+      "funcao": "Assessor III de TI",
+      "codigo_funcao": "1002",
+      "dependencia": "DITEC - UEC I",
+      "prefixo_dependencia": "2002",
+      "uor_dependencia": "3002"
+    },
+    {
+      "id": 5,
+      "nome": "Fernanda Santos",
+      "funcao": "Assessor II de TI",
+      "codigo_funcao": "1003",
+      "dependencia": "DITEC - UEC II",
+      "prefixo_dependencia": "2001",
+      "uor_dependencia": "3001"
+    },
+    {
+      "id": 6,
+      "nome": "Gabriel Almeida",
+      "funcao": "Assessor II de TI",
+      "codigo_funcao": "1003",
+      "dependencia": "DITEC - UEC I",
+      "prefixo_dependencia": "2002",
+      "uor_dependencia": "3002"
+    },
+    {
+      "id": 7,
+      "nome": "Helena Martins",
+      "funcao": "Assessor I de TI",
+      "codigo_funcao": "1004",
+      "dependencia": "DITEC - UEC II",
+      "prefixo_dependencia": "2001",
+      "uor_dependencia": "3001"
+    },
+    {
+      "id": 8,
+      "nome": "João Ferreira",
+      "funcao": "Assessor I de TI",
+      "codigo_funcao": "1004",
+      "dependencia": "DITEC - UEC I",
+      "prefixo_dependencia": "2002",
+      "uor_dependencia": "3002"
+    },
+    {
+      "id": 9,
+      "nome": "Mariana Rodrigues",
+      "funcao": "Gerente de Equipe",
+      "codigo_funcao": "1005",
+      "dependencia": "DITEC - UEC II",
+      "prefixo_dependencia": "2001",
+      "uor_dependencia": "3001"
+    },
+    {
+      "id": 10,
+      "nome": "Pedro Sousa",
+      "funcao": "Gerente de Equipe",
+      "codigo_funcao": "1005",
+      "dependencia": "DITEC - UEC I",
+      "prefixo_dependencia": "2002",
+      "uor_dependencia": "3002"
+    }
+  ]
+}
